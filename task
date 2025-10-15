@@ -1,0 +1,56 @@
+<html>
+
+
+<head> hudcd</head>
+
+<body>
+    <center>
+    <table border="2">
+        <thead>
+            <tr>
+                <th colspan="3">
+                    <ul> 
+                        <li>A</li>
+                        <li>B</li>
+                        <li>C</li>
+                    </ul>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <ol>
+                        <li>A</li>
+                        <li>B</li>
+                        <li>C</li>
+                    </ol>
+                </td>
+                <td>
+                    <dl>
+                        <dt>Term A</dt>
+                        <dd>Definition for A</dd>
+                        <dt>Term B</dt>
+                        <dd>Definition for B</dd>
+                        <dt>Term C</dt>
+                        <dd>Definition for C</dd>
+                    </dl>
+                </td>
+                <td>
+                    <ol type = "I">
+                        <li>First item</li>
+                        <li>Second item</li>
+                        <li>Third item</li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3"> <center>The End</center></td>
+            </tr>
+        </tfoot>
+    </table>
+     </center>
+</body>
+</html>
